@@ -1,1 +1,1 @@
-example_project: gunicorn example_project.wsgi
+web: gunicorn machina.wsgi
